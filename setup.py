@@ -4,7 +4,6 @@ import package_name as lib
 
 
 
-
 with open("requirements.txt", "r", encoding="utf-8") as r:
     requires = [i.strip() for i in r]
 
