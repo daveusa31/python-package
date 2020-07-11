@@ -1,7 +1,5 @@
 import setuptools
 
-import package_name as lib
-
 
 
 with open("requirements.txt", "r", encoding="utf-8") as r:
@@ -16,12 +14,12 @@ with open("HISTORY.md", "r", encoding="utf-8") as f:
 
 
 setuptools.setup(
-    name=lib.__name__,
-    version=lib.__version__,
-    description=lib.__description__,
+    name="package_name",
+    version="0.0.1",
+    description="",
     long_description=readme,
     long_description_content_type="text/markdown",
-    author=lib.__author__,
+    author="daveusa31",
     packages=setuptools.find_packages(),
     include_package_data=True,
     python_requires=">=3.4",
@@ -39,6 +37,6 @@ setuptools.setup(
         "Programming Language :: Python :: 3.8",
     ],
     project_urls={
-        "Source": about["__url__"]
+        "Source": ""
     },
 )
