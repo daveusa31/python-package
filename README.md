@@ -5,3 +5,4 @@
 [![PyPi status](https://img.shields.io/pypi/status/package_name.svg?style=flat-square)](https://pypi.python.org/pypi/package_name)
 [![Downloads](https://pepy.tech/badge/package_name)](https://pepy.tech/project/package_name)
 [![Supported python versions](https://img.shields.io/pypi/pyversions/package_name.svg?style=flat-square)](https://pypi.python.org/pypi/package_name)
+[![repository size](https://img.shields.io/github/repo-size/daveusa31/package_name)](https://pypi.python.org/pypi/package_name)
