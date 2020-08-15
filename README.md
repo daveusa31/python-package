@@ -1,4 +1,4 @@
-# <package name>
+# package name
 
 [![Build Status](https://travis-ci.com/author/package_name.svg?branch=master)](https://travis-ci.com/author/package_name)
 [![codecov](https://codecov.io/gh/author/package_name/branch/master/graph/badge.svg)](https://codecov.io/gh/author/package_name)
